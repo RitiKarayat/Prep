@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ba77bc54d34859e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e61df207402a5cf9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CSRF.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "392ddef10ce5eb3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "171eaf110bad143e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f5722b74472b84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "989fd7de05c2f1c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cc802449faae006",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd94bc19503bd077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "974e271f96fdebc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSRF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e61df207402a5cf9",
+  "lastOpenFiles": [
+    "CSRF.md",
+    "XXE.md",
+    "XSS vs CSRF.md",
+    "XSS.md",
+    "SSRF.md",
+    "SQLI.md",
+    "SameSite Cookies.md",
+    "Information Disclosure.md",
+    "Access Control.md",
+    "Images/Pasted image 20220527101328.png"
+  ]
+}
