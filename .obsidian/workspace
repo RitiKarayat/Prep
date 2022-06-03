@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSRF.md",
-            "mode": "source"
+            "file": "SSRF.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSRF.md",
+                "file": "SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "e61df207402a5cf9",
   "lastOpenFiles": [
+    "SSRF.md",
+    "SQLI.md",
+    "SameSite Cookies.md",
     "CSRF.md",
     "XXE.md",
     "XSS vs CSRF.md",
     "XSS.md",
-    "SSRF.md",
-    "SQLI.md",
-    "SameSite Cookies.md",
     "Information Disclosure.md",
     "Access Control.md",
     "Images/Pasted image 20220527101328.png"
